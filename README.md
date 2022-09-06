@@ -14,7 +14,7 @@
 ## Time taken to finish this project
 
 - 12 hours taken to complete it.
-## Tailwind Project1 Paytm Responsive [Live Link]()
+## Tailwind Project1 Paytm Responsive [Live Link](https://pytmm.netlify.app/)
 #### Preview
 
 ![Desktop](./Preview.JPG)
